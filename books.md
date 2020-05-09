@@ -15,7 +15,7 @@
   - Django
     - [Tango with Django](http://www.tangowithdjango.com/)
     - [Django Crash Course](https://www.roygreenfeld.com/products/django-crash-course)
-
+    - [Django For Beginners](https://djangoforbeginners.com/)
 
   - Flask
     - [Flask by Example](https://www.packtpub.com/web-development/flask-example)
